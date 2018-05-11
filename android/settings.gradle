@@ -1,0 +1,3 @@
+rootProject.name = 'OnTimerMobile'
+
+include ':app'
